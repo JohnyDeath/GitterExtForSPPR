@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.4">
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.5">
 	<ConfigVersions>
 		<Metadata name="Catalog._УчетныеЗаписи" id="af8b54bc-4cf4-45d7-83e2-d5cc7bcb8609" configVersion="6c8649427b950455113c74f50e8d16867a7896ba">
 			<Metadata name="Catalog._УчетныеЗаписи.Attribute.Email" id="ce7ce7e6-6d43-4cc6-8585-0d0fecb00229"/>
@@ -100,6 +100,8 @@
 		<Metadata name="CommandGroup.Действия" id="8f3360e6-4234-4187-9e4d-a53c242c8f6f" configVersion="740928f1bd694eb0c3d70a8e9b9ca482b6fe2907"/>
 		<Metadata name="CommonModule.Git" id="181dfec8-c3e1-4ac0-9c43-5f5da4187318" configVersion="de0432cb3f6980e0c454e81a164c5d7f88df894b"/>
 		<Metadata name="CommonModule.Git.Module" id="181dfec8-c3e1-4ac0-9c43-5f5da4187318.0" configVersion="e130227756f56707b2b5b43ccf67b52a24412458"/>
+		<Metadata name="CommonModule.ЗагрузкаМетаданных" id="6a0d7489-b98e-4b02-8f97-d15c351ed677" configVersion="927a70011fae2bbf3f19300a6609be210d3fdc5f"/>
+		<Metadata name="CommonModule.ЗагрузкаМетаданных.Module" id="6a0d7489-b98e-4b02-8f97-d15c351ed677.0" configVersion="142f556e4524b6ec0c92d63e9bb58b1f0701890f"/>
 		<Metadata name="CommonModule.МетодыРегламентногоЗадания" id="e27e98a7-f761-4547-a9a1-9062afa03150" configVersion="cd99bce4523b1de0719df365476efa3207c54838"/>
 		<Metadata name="CommonModule.МетодыРегламентногоЗадания.Module" id="e27e98a7-f761-4547-a9a1-9062afa03150.0" configVersion="54269333ff9fc1e823b7833df01da68cb1c5f383"/>
 		<Metadata name="CommonModule.ОбщийГитКлиентСервер" id="dedac4a0-60da-4f48-bff7-f4b3efe08c06" configVersion="b39905759278150b80966688c46a0a93a4ec820e"/>
@@ -112,7 +114,7 @@
 		<Metadata name="CommonTemplate.ВК32.Template" id="7165c634-aee5-403e-a005-a2cb0dfb2bd4.0" configVersion="83d68de9b238a14fedb3ed9f16631dd0f16c9851"/>
 		<Metadata name="CommonTemplate.ВК64" id="a77f05df-dd2b-4939-9bdc-5473c5fd33b8" configVersion="600ca803114026b1fb9d3c30a356b3e536f2a058"/>
 		<Metadata name="CommonTemplate.ВК64.Template" id="a77f05df-dd2b-4939-9bdc-5473c5fd33b8.0" configVersion="06a402cb0cf12e7e55f33c763a7c9355c6fee4f3"/>
-		<Metadata name="Configuration.Гит" id="69572295-6d6c-44f2-ac05-e463c0622369" configVersion="2e8693303bd57eaccc3f5447754fa5da55a8b640"/>
+		<Metadata name="Configuration.Гит" id="69572295-6d6c-44f2-ac05-e463c0622369" configVersion="0f373312d18988e775d08a947971193ade7706f6"/>
 		<Metadata name="InformationRegister.СписокИзменений" id="4ebbcb32-790a-41e9-884f-a3a901dd794f" configVersion="dc42d9ddd35bfc2982dddb9fdea80c8559122dea">
 			<Metadata name="InformationRegister.СписокИзменений.Dimension.Хранилище" id="346c1204-30b6-4a0b-ab56-dba7792fd72b"/>
 			<Metadata name="InformationRegister.СписокИзменений.Resource.Версия" id="5ad6923f-c56e-4597-a976-f269ced7356e"/>
